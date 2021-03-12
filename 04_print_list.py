@@ -1,6 +1,7 @@
 n=[1,2,3]
 print(n+ [4,5,6])
-print(n*4)
+print(n*3)
+
 
 
 # output = [1, 2, 3, 4, 5, 6]
